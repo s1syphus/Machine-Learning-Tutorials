@@ -1,4 +1,4 @@
-# Machine Learnig Tutorials
+# Machine Learning Tutorials
 
 Installation Instructions:
 
@@ -11,5 +11,8 @@ jupyter notebook
 ```
 
 To Do:
-* Make better readme
+* Fix requirements file
+* Finish Jupyter Python Tutorial
+* Clean up and finish decision tree tutorial
+
 
